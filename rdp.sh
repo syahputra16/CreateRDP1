@@ -4,7 +4,6 @@
 #
 # See environmental variables at then end of the script for configuration
 #
-
 function install_desktop_env {
   PACKAGES="desktop-base xscreensaver"
 
